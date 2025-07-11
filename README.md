@@ -1,4 +1,4 @@
-# 🎯 Task 4 of 5: Sentiment Analysis Prodigy InfoTech🎯
+# Task 4 of 5: Sentiment Analysis Prodigy InfoTech
 I had the opportunity to work on the project aimed at visualizing sentiment patterns on brands and evaluating public attitudes towards specific brands.
 
 ## Objectives:
